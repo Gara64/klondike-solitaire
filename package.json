@@ -1,0 +1,12 @@
+{
+  "name": "klondike-solitaire",
+  "cozy-type": "static",
+  "displayName": "Klondike-solitaire",
+  "version": "1.0.0",
+  "description": "The famous klondike card game",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gara64/klondike-solitaire.git"
+  },
+  "main": "src/index.html"
+}
